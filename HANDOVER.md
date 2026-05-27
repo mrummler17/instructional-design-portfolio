@@ -4,7 +4,7 @@
 - Repo/workspace: `https://github.com/mrummler17/instructional-design-portfolio`
 - Project folder: `/Users/marcusrummler/Documents/New project/instructional-design-portfolio`
 - Branch: `main`
-- Latest commit before this handover update: `a3a83bb`
+- Latest published commit before current edits: `546daef`
 - Deployment target: GitHub Pages from `main` branch, `/` root
 - Live URL: `https://mrummler17.github.io/instructional-design-portfolio/`
 - Current production file/version: static `index.html` served by GitHub Pages
@@ -39,6 +39,12 @@
   - Emphasise trust and proof over generic persuasion.
   - Use specific, fast-verifiable evidence.
   - Make the first 30 seconds scannable for both recruiter and client audiences.
+- Current edit pass:
+  - Rewrote key copy in first person so the site reads as Marcus presenting his own work.
+  - Shifted the palette from green-led to calm blue/slate with warm neutral backgrounds.
+  - Added a `Future-focused L&D` AI capability section without third-party logos.
+  - Added AI evidence badges: Claude 101 certified, Introduction to Claude Cowork, AI-assisted course prototyping, custom L&D calculators.
+  - Repositioned AI as practical workflow support with human-led instructional strategy and QA.
 
 ## Working And Verified
 - Source assets copied from the existing validated barista course project:
@@ -65,6 +71,13 @@
   - First content section appears within the initial viewport below the hero.
   - Mobile navigation text is present: Work, Practice, Experience, Details.
 - Verified local link/image references via HTML parser: 32 local links/images checked, no missing files.
+- Current edit pass local QA:
+  - Local browser preview at `http://localhost:8081`.
+  - Desktop and mobile checks: no broken images and no horizontal overflow.
+  - Verified H1 is `Marcus Rummler`.
+  - Verified hero statement is first person.
+  - Verified AI capability section and Claude credential badges are present.
+  - Verified local link/image references via HTML parser: 32 local links/images checked, no missing files.
 - Published to GitHub repo: `https://github.com/mrummler17/instructional-design-portfolio`.
 - GitHub Pages status verified as `built`.
 - Live site verified at `https://mrummler17.github.io/instructional-design-portfolio/`:
