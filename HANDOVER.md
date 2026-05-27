@@ -51,6 +51,7 @@
   - Social preview image URL: `https://mrummler17.github.io/instructional-design-portfolio/assets/social-preview.jpg`.
 - Linked the eLearning Calculator `Review project summary` button to the RETSA case-study page:
   `https://www.retsagroup.com.au/portfolio/elearning-calculator`.
+- Replaced the Barista Course case-study image with `assets/barista-course-poster.jpg`, a 960x1200 4:5 crop created from the supplied portrait artwork so the course title and robot image remain visible in the portfolio card.
 
 ## Working And Verified
 - Source assets copied from the existing validated barista course project:
@@ -112,6 +113,7 @@
 - `styles.css`: Portfolio visual design and responsive behavior.
 - `assets/`: Local portfolio image assets copied from the barista course.
 - `assets/social-preview.jpg`: Open Graph / Twitter social preview card.
+- `assets/barista-course-poster.jpg`: Current Barista Course case-study card image.
 - `.nojekyll`: Ensures GitHub Pages serves files directly without Jekyll processing.
 - `README.md`: Local preview and deployment notes.
 - `Marcus_Rummler_Instructional_Designer_CV_v4.docx`: current CV linked from the portfolio.
