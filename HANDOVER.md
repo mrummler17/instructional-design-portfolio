@@ -45,6 +45,10 @@
   - Added a `Future-focused L&D` AI capability section without third-party logos.
   - Added AI evidence badges: Claude 101 certified, Introduction to Claude Cowork, AI-assisted course prototyping, custom L&D calculators.
   - Repositioned AI as practical workflow support with human-led instructional strategy and QA.
+- Added social sharing preview support:
+  - Created `assets/social-preview.jpg` at 1200x630 from the supplied preview card.
+  - Added Open Graph and Twitter card metadata to `index.html`.
+  - Social preview image URL: `https://mrummler17.github.io/instructional-design-portfolio/assets/social-preview.jpg`.
 
 ## Working And Verified
 - Source assets copied from the existing validated barista course project:
@@ -105,6 +109,7 @@
 - `index.html`: Portfolio content and page structure.
 - `styles.css`: Portfolio visual design and responsive behavior.
 - `assets/`: Local portfolio image assets copied from the barista course.
+- `assets/social-preview.jpg`: Open Graph / Twitter social preview card.
 - `.nojekyll`: Ensures GitHub Pages serves files directly without Jekyll processing.
 - `README.md`: Local preview and deployment notes.
 - `Marcus_Rummler_Instructional_Designer_CV_v4.docx`: current CV linked from the portfolio.
