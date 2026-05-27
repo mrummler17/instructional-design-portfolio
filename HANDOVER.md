@@ -1,12 +1,13 @@
 # Handover: Instructional Design Portfolio
 
 ## Current State
-- Repo/workspace: `/Users/marcusrummler/Documents/New project`
+- Repo/workspace: `https://github.com/mrummler17/instructional-design-portfolio`
 - Project folder: `/Users/marcusrummler/Documents/New project/instructional-design-portfolio`
-- Branch: `main` at workspace root
-- Latest commit: no commits yet in this workspace repository
-- Deployment target: GitHub Pages candidate, not yet configured or deployed
-- Current production file/version: none
+- Branch: `main`
+- Latest commit before this handover update: `a3a83bb`
+- Deployment target: GitHub Pages from `main` branch, `/` root
+- Live URL: `https://mrummler17.github.io/instructional-design-portfolio/`
+- Current production file/version: static `index.html` served by GitHub Pages
 
 ## What Changed In This Session
 - Created a new static portfolio mock in `instructional-design-portfolio/`.
@@ -64,14 +65,23 @@
   - First content section appears within the initial viewport below the hero.
   - Mobile navigation text is present: Work, Practice, Experience, Details.
 - Verified local link/image references via HTML parser: 32 local links/images checked, no missing files.
+- Published to GitHub repo: `https://github.com/mrummler17/instructional-design-portfolio`.
+- GitHub Pages status verified as `built`.
+- Live site verified at `https://mrummler17.github.io/instructional-design-portfolio/`:
+  - HTTP 200 from GitHub Pages.
+  - Page title: `Marcus Rummler | Instructional Design Portfolio`.
+  - H1: `Marcus Rummler`.
+  - No broken images in browser check.
+  - eLearning Calculator section present.
+  - Details nav present.
 
 ## Unfinished Or Risky
 - No LinkedIn URL, GitHub URL, or short personal bio beyond the CV/profile copy has been added yet.
 - The page currently links to `https://basic-barista-course.netlify.app/` based on the existing barista course handover.
 - The page links to `https://www.elearningcalculator.com/` for the eLearning Calculator.
 - Local-only project-note links were replaced with in-page project summary links for GitHub Pages safety.
-- The old portfolio screenshots include client/project examples. Before public GitHub Pages deployment, review client confidentiality and remove or blur anything sensitive.
-- The CV download includes direct contact details. Confirm whether phone number should be public before deployment.
+- The old portfolio screenshots include client/project examples. They are now public on GitHub Pages; review client confidentiality and remove or blur anything sensitive if needed.
+- The CV download includes direct contact details and is now public on GitHub Pages. Confirm whether phone number should remain public.
 
 ## Critical Logic Not To Refactor Casually
 - Do not refactor the SCORM logic in `/Users/marcusrummler/Documents/New project/basic-barista-course` while working on this portfolio.
