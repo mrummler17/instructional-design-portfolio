@@ -49,6 +49,8 @@
   - Created `assets/social-preview.jpg` at 1200x630 from the supplied preview card.
   - Added Open Graph and Twitter card metadata to `index.html`.
   - Social preview image URL: `https://mrummler17.github.io/instructional-design-portfolio/assets/social-preview.jpg`.
+- Linked the eLearning Calculator `Review project summary` button to the RETSA case-study page:
+  `https://www.retsagroup.com.au/portfolio/elearning-calculator`.
 
 ## Working And Verified
 - Source assets copied from the existing validated barista course project:
